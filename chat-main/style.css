@@ -18,10 +18,9 @@ body {
   width: 115px;
   height: 110px;
   position: absolute;
+  margin-right: 1205px;
+  margin-bottom: 480px;
   cursor: pointer;
-  margin-left: -605px;
-  z-index: 1000;
-  margin-top: -270px;
 }
 
 .logout-btn{
@@ -38,7 +37,7 @@ body {
   cursor: pointer;
   margin-left: 66px;
   position: absolute;
-  margin-top: -310px;
+  margin-top: -275px;
   
 }
 #frame {
